@@ -26,6 +26,8 @@ This software is **NOT** intended for malicious activities such as: **Fraud, Sca
 
 -- Run the installer and follow the on-screen instructions to install the app
 
+-- ***CREATE A FOLDER CALLED "Logs"*** ( Version 1.0.0 doesn't create it automatically )
+
 -- When you open the application, it will automatically check for updates from a server (e.g., GitHub).
    If a new version is available, the app will download and install the update automatically, ensuring you always have the latest version.
 
