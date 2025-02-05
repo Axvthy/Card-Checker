@@ -1,0 +1,23 @@
+
+░█████╗░██╗░░██╗██╗░░░██╗████████╗██╗░░██╗██╗░░░██╗
+██╔══██╗╚██╗██╔╝██║░░░██║╚══██╔══╝██║░░██║╚██╗░██╔╝
+███████║░╚███╔╝░╚██╗░██╔╝░░░██║░░░███████║░╚████╔╝░
+██╔══██║░██╔██╗░░╚████╔╝░░░░██║░░░██╔══██║░░╚██╔╝░░
+██║░░██║██╔╝╚██╗░░╚██╔╝░░░░░██║░░░██║░░██║░░░██║░░░
+╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝░░░╚═╝░░░
+
+### RELEASE: 1.0.0
+### Made By Axvthy on GitHub
+
+#############
+# HOW TO USE
+#############
+
+1) Run CreditCardReader_Setup.exe
+2) Create a folder called "Logs" on your desktop
+
+Program should work perfectly, if there are any issues let me know!
+
+I will be actively working on this project so this release version ( 1.0.0 ) will be pretty rough
+
+
